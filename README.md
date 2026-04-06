@@ -77,11 +77,4 @@ Societe Generale (Software Engineer)   → Transaction processing time cut by 50
                                           Full-stack: Java · Spring Boot · Oracle Cloud
 ```
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smadinen7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smadinen7&layout=compact&hide_border=true&langs_count=6" height="160"/>
-</p>
 
